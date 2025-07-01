@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+.report/
+# Npm package manager files
+.npm
+# Yarn package manager files
+.yarn
+# pnpm-store files
+.pnpm-store
+
+# Lock files
+package-lock.json
+.lockb
+yarn.lock
+.npmrc
+.yarnrc
+.yarnclean
+.yarn-integrity
+.cache
+.env
+.env.*
+.DS_Store
+node_modules/ # เพิ่มบรรทัดนี้สำคัญมาก
+dist/ # เพิ่มบรรทัดนี้ สำหรับ build output
+.vite/ # เพิ่มบรรทัดนี้ สำหรับ Vite cache
