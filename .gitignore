@@ -31,3 +31,4 @@ yarn.lock
 node_modules/ # เพิ่มบรรทัดนี้สำคัญมาก
 dist/ # เพิ่มบรรทัดนี้ สำหรับ build output
 .vite/ # เพิ่มบรรทัดนี้ สำหรับ Vite cache
+node_modules
